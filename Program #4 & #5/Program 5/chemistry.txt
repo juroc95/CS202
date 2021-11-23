@@ -1,0 +1,125 @@
+general
+General
+Welcome Video
+Welcome Video
+Welcome Video.mp4
+general
+General
+Introduction to Chemistry
+Introduction to Chemistry
+Introduction to Chemistry.mp4
+class1
+CH221
+Chapter 1.1
+1.1 Atoms and Molecules
+1.1 Atoms and Molecules.mp4
+class1
+CH221
+Chapter 1.2
+1.2 The Scientific Approach to Knowledge
+1.2 The Scientific Approach to Knowledge.mp4
+class1
+CH221
+Chapter 1.3
+1.3 The Classification of Matter
+1.3 The Classification of Matter.mp4
+class1
+CH221
+Chapter 1.6
+1.6 The Units of Measurement
+1.6 The Units of Measurement.mp4
+class1
+CH221
+Chapter 1.7
+1.7 The Reliability of Measurement
+1.7 The Reliability of Measurement.mp4
+class1
+CH221
+Chapter 1.8
+1.8 Solving Chemical Problems
+1.8 Solving Chemical Problems.mp4
+class2
+CH222
+Chapter 5.2
+5.2 Pressure: The Result of Molecular Collisions
+5.2 Pressure: The Result of Molecular Collisions.mp4
+class2
+CH222
+Chapter 5.3
+5.3 The Simple Gas Laws: Boyle's Law, Charles's Law, and Avogadro's Law
+5.3 The Simple Gas Laws: Boyle's Law, Charles's Law, and Avogadro's Law.mp4
+class2
+CH222
+Chapter 5.5
+5.5 Applications of the Ideal Gas Law: Molar Volume, Density, and Molar Mass of a Gas
+5.5 Applications of the Ideal Gas Law: Molar Volume, Density, and Molar Mass of a Gas.mp4
+class2
+CH222
+Chapter 5.6
+5.6 Mixtures of Gases and Partial Pressures
+5.6 Mixtures of Gases and Partial Pressures.mp4
+class2
+CH222
+Chapter 5.7
+5.7 Gases in Chemical Reactions: Stoichiometry Revisited
+5.7 Gases in Chemical Reactions: Stoichiometry Revisited.mp4
+class2
+CH222
+Chapter 5.8
+5.8 Kinetic Molecular Theory: A Model for Gases
+5.8 Kinetic Molecular Theory: A Model for Gases.mp4
+class2
+CH222
+Chapter 5.10
+5.10 Real Gases: The Effects of Size and Intermolecular Forces
+5.10 Real Gases: The Effects of Size and Intermolecular Forces.mp4
+class3
+CH223
+Chapter 16.3
+16.3 Definitions of Acids and Bases
+16.3 Definitions of Acids and Bases.mp4
+class3
+CH223
+Chapter 16.4
+16.4 Acid Strength and the Acid Ionization Constant (K[Sub(a)])
+16.4 Acid Strength and the Acid Ionization Constant (K[Sub(a)]).mp4
+class3
+CH223
+Chapter 16.5
+16.5 Autoionization of Water and pH
+16.5 Autoionization of Water and pH.mp4
+class3
+CH223
+Chapter 16.6
+16.6 Finding the [H3O[Sup(+)]] and pH of Strong and Weak Acid Solutions
+16.6 Finding the [H3O[Sup(+)]] and pH of Strong and Weak Acid Solutions.mp4
+class3
+CH223
+Chapter 16.7
+16.7 Base Solutions
+16.7 Base Solutions.mp4
+class3
+CH223
+Chapter 16.8
+16.8 The Acid–Base Properties of Ions and Salts
+16.8 The Acid–Base Properties of Ions and Salts.mp4
+class3
+CH223
+Chapter 16.9
+16.9 Polyprotic Acids
+16.9 Polyprotic Acids.mp4
+class3
+CH223
+Chapter 16.10
+16.10 Acid Strength and Molecular Structure
+16.10 Acid Strength and Molecular Structure.mp4
+class3
+CH223
+Chapter 16.11
+16.11 Lewis Acids and Bases
+16.11 Lewis Acids and Bases.mp4
+class3
+CH223
+Chapter 16.12
+16.12 Acid Rain
+16.12 Acid Rain.mp4

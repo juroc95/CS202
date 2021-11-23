@@ -1,0 +1,95 @@
+general
+General
+Welcome Video
+Welcome Video
+Welcome Video.mp4
+general
+General
+Introduction to College Math
+Introduction to College Math
+Introduction to College Math.mp4
+class1
+MTH251
+Chapter 1
+Functions and Models (Chapter 1)
+Functions and Models (Chapter 1).mp4
+class1
+MTH251
+Chapter 2
+Limits and derivatives (Chapter 2)
+Limits and derivatives (Chapter 2).mp4
+class1
+MTH251
+Chapter 3
+Differentiation rules (Chapter 3)
+Differentiation rules (Chapter 3).mp4
+class1
+MTH251
+Chapter 4
+Applications of Differentiation (Chapter 4)
+Applications of Differentiation (Chapter 4).mp4
+class1
+MTH251
+Chapter 5
+The integral (Chapter 5)
+The integral (Chapter 5).mp4
+class2
+MTH252
+Chapter 6
+Chapter 6. Transcendental Functions
+Chapter 6. Transcendental Functions.mp4
+class2
+MTH252
+Chapter 7
+Chapter 7. Techniques of Integration
+Chapter 7. Techniques of Integration.mp4
+class2
+MTH252
+Chapter 8
+Chapter 8. Indeterminate Forms and Improper Integrals
+Chapter 8. Indeterminate Forms and Improper Integrals.mp4
+class2
+MTH252
+Chapter 9
+Chapter 9. Sequences and Series
+Chapter 9. Sequences and Series.mp4
+class2
+MTH252
+Chapter 10
+Chapter 10 Numerical Methods
+Chapter 10 Numerical Methods.mp4
+class2
+MTH252
+Chapter 11
+Chapter 11. Conics and Polar Coordinates
+Chapter 11. Conics and Polar Coordinates.mp4
+class2
+MTH252
+Chapter 12
+Chapter 12. Second Order Linear Differential Equations
+Chapter 12. Second Order Linear Differential Equations.mp4
+class3
+MTH253
+Chapter 11
+Chapter 11: Vectors and the Geometry of Space
+Chapter 11: Vectors and the Geometry of Space.mp4
+class3
+MTH253
+Chapter 12
+Chapter 12: Vector-valued Functions
+Chapter 12: Vector-valued Functions.mp4
+class3
+MTH253
+Chapter 13
+Chapter 13: Functions of Multiple Variables and Partial Derivatives
+Chapter 13: Functions of Multiple Variables and Partial Derivatives.mp4
+class3
+MTH253
+Chapter 14
+Chapter 14: Multiple Integration
+Chapter 14: Multiple Integration.mp4
+class3
+MTH253
+Chapter 15
+Chapter 15: Vector Fields, Line Integrals, and Vector Theorems
+Chapter 15: Vector Fields, Line Integrals, and Vector Theorems.mp4

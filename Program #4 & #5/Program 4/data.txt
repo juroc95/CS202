@@ -1,0 +1,162 @@
+CS162
+Topic 5 Part 1
+Intro to Recursion
+CS162 Topic 5 Part 1 Intro to Recursion.mp4
+CS162
+Topic 5 Part 2
+Experiencing Recursion
+CS162 Topic 5 Part 2 Experiencing Recursion.mp4
+CS162
+Practicing Recursion
+Last video Part 3 and 4
+CS162 Practicing Recursion Last video Part 3 and 4.mp4
+CS163
+Topic 1
+Practicing Recursion
+CS163 Topic 1 Practicing Recursion.mp4
+CS163
+Topic 3 Part 2
+Practicing Recursion
+CS163 Topic 3 Part 2 Practicing Recursion.mp4
+CS163
+Topic 8
+BST Traversal
+CS163 Topic 8 BST Traversal.mp4
+CS163
+Topic 9 Part 1
+BST Insertion
+CS163 Topic 9 Part 1 BST Insertion.mp4
+CS163
+Topic 9 Part 2
+BST Removal
+CS163 Topic 9 Part 2 BST Removal.mp4
+CS163
+Topic 9 Part 3
+BST Removal
+CS163 Topic 9 Part 3 BST Removal.mp4
+CS163
+Topic 9 Part 4
+BST Removal
+CS163 Topic 9 Part 4 BST Removal.mp4
+CS163
+Topic 9 Part 5
+BST Efficiency
+CS163 Topic 9 Part 5 BST Efficiency.mp4
+CS163
+Topic 10 Part 1
+Balanced Trees
+CS163 Topic 10 Part 1 Balanced Trees.mp4
+CS163
+Topic 10 Part 2
+Red-Black and AVL Trees
+CS163 Topic 10 Part 2 Red-Black and AVL Trees.mp4
+CS202
+Topic 1 Part 1
+OOP
+CS202 Topic 1 Part 1 OOP.mp4
+CS202
+Topic 1 Part 2
+Discussing OOP
+CS202 Topic 1 Part 2 Discussing OOP.mp4
+CS202
+Topic 3 Part 1
+Inheritance
+CS202 Topic 3 Part 1 Inheritance.mp4
+CS202
+Topic 3 Part 2
+Details of Single Inheritance
+CS202 Topic 3 Part 2 Details of Single Inheritance.mp4
+CS202
+Topic 3 Part 3
+Inheritance
+CS202 Topic 3 Part 3 Inheritance.mp4
+CS202
+Topic 3 Part 4
+Copy Constructors
+CS202 Topic 3 Part 4 Copy Constructors.mp4
+CS202
+Topic 4 Part 1
+Introduction to Dynamic Binding
+CS202 Topic 4 Part 1 Introduction to Dynamic Binding.mp4
+CS202
+Topic 4 Part 2
+Dynamic Binding
+CS202 Topic 4 Part 2 Dynamic Binding.mp4
+CS202
+Topic 4 Part 3
+Dynamic Binding Continued
+CS202 Topic 4 Part 3 Dynamic Binding Continued.mp4
+CS202
+Topic 4 Part 4
+Review of Dynamic Binding
+CS202 Topic 4 Part 4 Review of Dynamic Binding.mp4
+CS202
+Topic 4 Part 5
+Abstract Base Classes
+CS202 Topic 4 Part 5 Abstract Base Classes.mp4
+CS202
+Topic 4 Part 6
+RTTI
+CS202 Topic 4 Part 6 RTTI.mp4
+CS202
+Topic 4 Part 7
+User Defined Conversions
+CS202 Topic 4 Part 7 User Defined Conversions.mp4
+CS202
+Topic 5
+Exception Handling
+CS202 Topic 5 Exception Handling.mp4
+CS202
+Topic 6 Part 1
+Operator Overloading
+CS202 Topic 6 Part 1 Operator Overloading.mp4
+CS202
+Topic 6 Part 2
+Operator Overloading
+CS202 Topic 6 Part 2 Operator Overloading.mp4
+CS202
+Topic 6 Part 3
+Operator Overloading
+CS202 Topic 6 Part 3 Operator Overloading.mp4
+CS202
+Topic 6 Part 4
+Operator Overloading
+CS202 Topic 6 Part 4 Operator Overloading.mp4
+CS202
+Topic 7 Part 1
+Friends and Templates
+CS202 Topic 7 Part 1 Friends and Templates.mp4
+CS202
+Topic 7 Part 2
+Friends and Templates
+CS202 Topic 7 Part 2 Friends and Templates.mp4
+CS202
+Topic 8 Part 1
+Java Introduction
+CS202 Topic 8 Part 1 Java Introduction.mp4
+CS202
+Topic 8 Part 2
+Java Introduction
+CS202 Topic 8 Part 2 Java Introduction.mp4
+CS202
+Topic 8 Part 3
+Java Introduction
+CS202 Topic 8 Part 3 Java Introduction.mp4
+CS202
+Topic 8 Part 4
+Java Introduction
+CS202 Topic 8 Part 4 Java Introduction.mp4
+CS202
+Topic 8 OOP Part 1
+Review of OOP
+CS202 Topic 8 OOP Part 1 Review of OOP.mp4
+CS202
+Topic 8 OOP Part 2
+Review of OOP
+CS202 Topic 8 OOP Part 2 Review of OOP.mp4
+
+
+
+
+
+
