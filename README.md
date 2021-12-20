@@ -1,4 +1,4 @@
-# CS202
+# Programming Systems
 
 CS 202 Programming Systems
 
